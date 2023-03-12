@@ -1,0 +1,288 @@
+{
+  "users": [
+    {
+      "fullname": "Rafael André petter",
+      "contact": "55996750998",
+      "email": "rafapetter0102323@gmail.com",
+      "number_rg": "909850869085",
+      "cpf": "00000000000",
+      "password": "12345678",
+      "address": {
+        "cep": "98910000",
+        "street": "Alfredo mensch",
+        "city": "Três de maio",
+        "state": "RS",
+        "region": "Oriental",
+        "number": "999",
+        "complement": ""
+      },
+      "billing_day": "2022-09-29",
+      "id": 1
+    },
+    {
+      "fullname": "Camila eckert",
+      "contact": "999799466",
+      "email": "Camil@hotmail.com",
+      "number_rg": "909098988",
+      "cpf": "08888888888",
+      "password": "12345678",
+      "address": {
+        "cep": "9868989898",
+        "street": "Hvhg jvjvhhvjj",
+        "city": "Três de mIo",
+        "state": "MA",
+        "region": "Chchbn",
+        "number": "568",
+        "complement": "Cuio"
+      },
+      "billing_day": "2022-10-31",
+      "id": 2
+    },
+    {
+      "fullname": "Ucvivivivuvucjvuvib",
+      "contact": "-939686868",
+      "email": "Ufuvuvucuvi",
+      "number_rg": "8386068686",
+      "cpf": "68306060606",
+      "password": " ycycucigicyfivy",
+      "address": {
+        "cep": "68686038686868",
+        "street": "Vuvuvuvu",
+        "city": "Chchvuv",
+        "state": "MG",
+        "region": "Vuvuvuviviv",
+        "number": "86068286960686868",
+        "complement": "Ucucjchckbjcjvjvhcivi"
+      },
+      "billing_day": "",
+      "id": 3
+    },
+    {
+      "fullname": "Cuvuvuviv",
+      "contact": "06860606",
+      "email": "Ucucjchcu",
+      "number_rg": "6060606868",
+      "cpf": "6860683835",
+      "password": "vuvuvuvibi",
+      "address": {
+        "cep": "0330383839",
+        "street": "Cucuvkvhcjv",
+        "city": "Cycuvuviv",
+        "state": "MG",
+        "region": "Uvuvjcuv",
+        "number": "8383830683960",
+        "complement": "H ucuvivjb"
+      },
+      "billing_day": "2022-10-01",
+      "id": 4
+    },
+    {
+      "fullname": "Jvjvvjvjvjvjvk",
+      "contact": "396006866868",
+      "email": "Ucvjjcvjvjvk",
+      "number_rg": "86836806600",
+      "cpf": "06866860090",
+      "password": "g  hcyyxdyufi",
+      "address": {
+        "cep": "2",
+        "street": "Cuchchjc",
+        "city": "Chchjcvjvjjvjv",
+        "state": "MS",
+        "region": "Cychvj j",
+        "number": "060660060660",
+        "complement": " Hhcvjjjv"
+      },
+      "billing_day": "2022-09-30",
+      "id": 5
+    },
+    {
+      "fullname": "Cuvuuvjvvjvj",
+      "contact": "388383388383",
+      "email": "Uccuucucuc",
+      "number_rg": "3038380303",
+      "cpf": "3030300360",
+      "password": " u u hh  yy yxi",
+      "address": {
+        "cep": "060606600",
+        "street": "H h cucu",
+        "city": "Uccucucu",
+        "state": "PE",
+        "region": "U cucuuccuvu",
+        "number": "308303066060",
+        "complement": ""
+      },
+      "billing_day": "2022-09-30",
+      "id": 6
+    },
+    {
+      "fullname": "Uvuvvhvuvjjvjv",
+      "contact": "836006060606",
+      "email": " Uuvuvvujv",
+      "number_rg": "838606600606",
+      "cpf": "06600606060",
+      "password": "hchcvuibctiy yy ",
+      "address": {
+        "cep": "02860001",
+        "street": "Avenida Deputado Cantídio Sampaio",
+        "city": "São Paulo",
+        "state": "SP",
+        "region": "Vila Souza",
+        "number": "8008",
+        "complement": "até 649 - lado ímpar"
+      },
+      "billing_day": "2022-09-23",
+      "id": 7
+    },
+    {
+      "fullname": "Camila Regina Eckert ",
+      "contact": "55999468229",
+      "email": "camilaeckert@hotmail.com",
+      "number_rg": "6105033689",
+      "cpf": "03585910076",
+      "password": "Kamila94",
+      "address": {
+        "cep": "98910000",
+        "street": "Rua Santo angelo",
+        "city": "Três de Maio",
+        "state": "RS",
+        "region": "Centro",
+        "number": "448",
+        "complement": "Apartamento 200"
+      },
+      "billing_day": "2022-10-10",
+      "id": 8
+    },
+    {
+      "fullname": "Juaquin peito",
+      "contact": "555599663856",
+      "email": "Joiaquin@hotmail.com",
+      "number_rg": "99943494346",
+      "cpf": "99999999999",
+      "password": "12341234",
+      "address": {
+        "cep": "98910000",
+        "street": "Dr filho",
+        "city": "Três de Maio",
+        "state": "RS",
+        "region": "Centro",
+        "number": "6666",
+        "complement": "Apt 1"
+      },
+      "billing_day": "2022-09-29",
+      "id": 9
+    }
+  ],
+  "debts": [
+    {
+      "id": 1234534,
+      "amount": 230.23,
+      "recipient": "EPP Energias do Mundo"
+    },
+    {
+      "id": 545434326,
+      "amount": 30.23,
+      "recipient": "DevInHouse Ltda"
+    }
+  ],
+  "invoices": [
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "15-09-2022 08:45",
+      "code": 545434326,
+      "user_id": 1,
+      "cashback": 3.023,
+      "id": 1
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "15-09-2022 20:52",
+      "code": 545434326,
+      "user_id": 1,
+      "cashback": 3.023,
+      "id": 2
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "16/09/2022 20:21",
+      "code": 1234534,
+      "user_id": 1,
+      "cashback": 23.023,
+      "id": 3
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "21/09/2022 19:2",
+      "code": 1234534,
+      "user_id": 2,
+      "cashback": 23.023,
+      "id": 4
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "25/09/2022 09:15",
+      "code": 1234534,
+      "user_id": 8,
+      "cashback": 23.023,
+      "id": 5
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "25/09/2022 09:18",
+      "code": 1234534,
+      "user_id": 8,
+      "cashback": "23.02",
+      "id": 6
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "25/09/2022 15:7",
+      "code": 1234534,
+      "user_id": 9,
+      "cashback": "23.02",
+      "id": 7
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "25/09/2022 15:8",
+      "code": 545434326,
+      "user_id": 9,
+      "cashback": "3.02",
+      "id": 8
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "25/09/2022 15:8",
+      "code": 545434326,
+      "user_id": 9,
+      "cashback": "3.02",
+      "id": 9
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "25/09/2022 15:10",
+      "code": 545434326,
+      "user_id": 9,
+      "cashback": "3.02",
+      "id": 10
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "25/09/2022 15:17",
+      "code": 545434326,
+      "user_id": 9,
+      "cashback": "3.02",
+      "id": 11
+    }
+  ]
+}
